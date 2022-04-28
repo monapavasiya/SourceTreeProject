@@ -1,2 +1,2 @@
 Hello world
-This isa second line in the file.
+This is a second line in the file.
